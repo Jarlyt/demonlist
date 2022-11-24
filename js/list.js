@@ -2,10 +2,10 @@ const d = {
 	"list": [
 		{
 			"vids": [],
-			"name": "Crimson Planet",
-			"author": "TrueOmega and more [Wooshi999]",
-			"percentToQualify": "44",
-			"verificationVid": "https://youtu.be/euMInLjyG6k",
+			"name": "??, ??",
+			"author": "?? [??]",
+			"percentToQualify": "??",
+			"verificationVid": "??",
 			"key": 2
 		},
 		
